@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+0-Perspective/.idea/
+0-Perspective/Assets/ExampleAssets/Materials.meta
+0-Perspective/Assets/ExampleAssets/
+0-Perspective/Builds/
+0-Perspective/Library/
